@@ -5,6 +5,12 @@
   "version": "0.1.0",
   "publisher": "spacepiratezero",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/space-pirate-zero/mink.git",
+    "directory": "ide/vscode"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
